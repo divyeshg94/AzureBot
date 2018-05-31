@@ -1,0 +1,11 @@
+E:\TFS\AzureBot\AzureBot.ConsoleConversation\bin\Debug\AzureBot.ConsoleConversation.exe.config
+E:\TFS\AzureBot\AzureBot.ConsoleConversation\bin\Debug\AzureBot.ConsoleConversation.exe
+E:\TFS\AzureBot\AzureBot.ConsoleConversation\bin\Debug\AzureBot.ConsoleConversation.pdb
+E:\TFS\AzureBot\AzureBot.ConsoleConversation\bin\Debug\Microsoft.Bot.Connector.DirectLine.dll
+E:\TFS\AzureBot\AzureBot.ConsoleConversation\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+E:\TFS\AzureBot\AzureBot.ConsoleConversation\bin\Debug\Newtonsoft.Json.dll
+E:\TFS\AzureBot\AzureBot.ConsoleConversation\bin\Debug\Newtonsoft.Json.xml
+E:\TFS\AzureBot\AzureBot.ConsoleConversation\obj\Debug\AzureBot.Tests.ConsoleConversation.csprojResolveAssemblyReference.cache
+E:\TFS\AzureBot\AzureBot.ConsoleConversation\obj\Debug\AzureBot.Tests.ConsoleConversation.csproj.CoreCompileInputs.cache
+E:\TFS\AzureBot\AzureBot.ConsoleConversation\obj\Debug\AzureBot.ConsoleConversation.exe
+E:\TFS\AzureBot\AzureBot.ConsoleConversation\obj\Debug\AzureBot.ConsoleConversation.pdb

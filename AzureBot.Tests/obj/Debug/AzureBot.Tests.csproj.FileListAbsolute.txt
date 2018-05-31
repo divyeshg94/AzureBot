@@ -1,0 +1,12 @@
+E:\TFS\AzureBot\AzureBot.Tests\bin\Debug\azurebottests.runsettings
+E:\TFS\AzureBot\AzureBot.Tests\bin\Debug\AzureBot.Tests.dll.config
+E:\TFS\AzureBot\AzureBot.Tests\bin\Debug\AzureBot.Tests.dll
+E:\TFS\AzureBot\AzureBot.Tests\bin\Debug\AzureBot.Tests.pdb
+E:\TFS\AzureBot\AzureBot.Tests\bin\Debug\Microsoft.Bot.Connector.DirectLine.dll
+E:\TFS\AzureBot\AzureBot.Tests\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+E:\TFS\AzureBot\AzureBot.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\TFS\AzureBot\AzureBot.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\TFS\AzureBot\AzureBot.Tests\obj\Debug\AzureBot.Tests.csprojResolveAssemblyReference.cache
+E:\TFS\AzureBot\AzureBot.Tests\obj\Debug\AzureBot.Tests.csproj.CoreCompileInputs.cache
+E:\TFS\AzureBot\AzureBot.Tests\obj\Debug\AzureBot.Tests.dll
+E:\TFS\AzureBot\AzureBot.Tests\obj\Debug\AzureBot.Tests.pdb
